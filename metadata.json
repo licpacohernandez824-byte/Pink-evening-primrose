@@ -1,0 +1,6 @@
+{
+  "name": "Evening Primrose Bloom",
+  "description": "A Processing-like 2D animation of evening primrose flowers swaying in the wind, with day/night cycles and particle wind fields.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
